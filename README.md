@@ -1,2 +1,2 @@
 # FlightOptimizerProject
- FlightOptimizer
+Developed a flight management system in Java using graph-based algorithms to compute optimal flight paths based on cost and time. The system models flight routes as graph edges between city nodes and uses depth-first and breadth-first search algorithms to determine the most efficient direct and multi-leg routes. Optimized query processing reduces computation time, and the system dynamically handles real-time flight data, delivering cost-effective and time-efficient solutions with minimal latency.
